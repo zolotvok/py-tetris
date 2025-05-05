@@ -1,2 +1,2 @@
 # py-tetris
-shitty tetris that barerly works
+terrible tetris that barerly works
