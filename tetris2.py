@@ -193,7 +193,7 @@ def move():
 			right-=1
 			os.system('cls' if os.name in ('nt', 'dos') else 'clear')
 			printgame()
-def fasz():
+def idklol():
 	global right
 	while True:
 		if(right>10):
@@ -228,7 +228,7 @@ def falling():
 start()
 th = threading.Thread(target = move)
 th.start()
-asd = threading.Thread(target = fasz)
+asd = threading.Thread(target = idklol)
 asd.start()
 rot = threading.Thread(target = rotate)
 rot.start()
